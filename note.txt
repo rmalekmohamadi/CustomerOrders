@@ -1,0 +1,2 @@
+https://adevait.com/nodejs/build-a-crud-app-with-only-json-files
+https://github.com/Mahdi-Hazrati/nodejs-file-storage-crud-api/blob/master/api_server.js
